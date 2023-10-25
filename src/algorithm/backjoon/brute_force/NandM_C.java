@@ -3,7 +3,7 @@ package algorithm.backjoon.brute_force;
 import java.util.Scanner;
 
 // 백준 15651 ( N 과 M(3) )
-public class NandM {
+public class NandM_C {
     static int N, M; // 사용해야 할 변수 N 과 M
     static int[] selected; // 계산된 결과가 저장될 변수
     static StringBuilder sb;
